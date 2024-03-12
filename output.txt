@@ -1,8 +1,74 @@
 Microsoft Windows [Version 10.0.19045.4046]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>cmd /k whoami
-desktop-seq5qju\lukita
+C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>cmd /k ipconfig
+
+Windows IP Configuration
+
+
+Unknown adapter VPN - VPN Client:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Unknown adapter Local Area Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter Ethernet 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Wi-Fi:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Wireless LAN adapter Local Area Connection* 10:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Ethernet adapter VMware Network Adapter VMnet1:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::93de:6f66:5eba:d220%14
+   IPv4 Address. . . . . . . . . . . : 192.168.239.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter VMware Network Adapter VMnet8:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::f8f0:2bc5:3305:8631%24
+   IPv4 Address. . . . . . . . . . . : 192.168.41.1
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 
+
+Ethernet adapter Ethernet 7:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::984b:1941:8e61:b98d%3
+   IPv4 Address. . . . . . . . . . . : 192.168.8.100
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : 192.168.8.1
+
+Ethernet adapter Bluetooth Network Connection:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
 
 C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>
 C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>
