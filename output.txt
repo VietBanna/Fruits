@@ -1,7 +1,9 @@
 Microsoft Windows [Version 10.0.19045.4046]
 (c) Microsoft Corporation. All rights reserved.
 
-C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>cmd /k 
+C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>cmd /k whoami
+desktop-seq5qju\lukita
+
 C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>
 C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>
 C:\Users\LUKITA\source\repos\Test\Test\bin\Debug>
