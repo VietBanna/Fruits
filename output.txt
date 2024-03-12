@@ -1,20 +1,8 @@
 Microsoft Windows [Version 10.0.17763.4974]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
-C:\vsip\vsip_v1.6.9.3\_imgs>cmd /k whoami /priv
-
-PRIVILEGES INFORMATION
-----------------------
-
-Privilege Name                Description                               State   
-============================= ========================================= ========
-SeAssignPrimaryTokenPrivilege Replace a process level token             Disabled
-SeIncreaseQuotaPrivilege      Adjust memory quotas for a process        Disabled
-SeAuditPrivilege              Generate security audits                  Disabled
-SeChangeNotifyPrivilege       Bypass traverse checking                  Enabled 
-SeImpersonatePrivilege        Impersonate a client after authentication Enabled 
-SeCreateGlobalPrivilege       Create global objects                     Enabled 
-SeIncreaseWorkingSetPrivilege Increase a process working set            Disabled
+C:\vsip\vsip_v1.6.9.3\_imgs>cmd /k whoami
+iis apppool\vsip
 
 C:\vsip\vsip_v1.6.9.3\_imgs>
 C:\vsip\vsip_v1.6.9.3\_imgs>
